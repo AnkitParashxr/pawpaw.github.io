@@ -1,0 +1,161 @@
+/* nav bar */
+#top_nav {
+  background-color: #f7eddb !important;
+  font-size: 20px;
+  padding: 0.4% 3.5%;
+}
+
+/* search box */
+#search_box {
+  background-color: #fcf8e8;
+  color: white;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+
+/* search button */
+#search_btn {
+  background-color: #ffdeb4;
+  border: 0px;
+  position: relative;
+  right: 34px;
+}
+
+/* banner */
+#banner {
+  background-color: #fcf8e8;
+  padding-bottom: 50px;
+}
+#banner_img {
+  margin-top: 50px;
+}
+#banner-text h1 {
+  font-family: Aharoni;
+  font-size: 60px;
+  color: #3f3351;
+  margin-top: 100px;
+}
+
+#banner-text p {
+  font-family: Gautami;
+  font-size: 20px;
+  color: #1a1a40;
+  margin-top: 13px;
+  margin-bottom: 6px;
+}
+
+#banner-btn1 {
+  background-color: #ffd8a9;
+  color: #d07000;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+
+#banner-btn2 {
+  background-color: #ffd8a9;
+  color: #d07000;
+  margin-left: 30px;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+/* service */
+
+#service {
+  background-color: #ffffff;
+  padding-bottom: 50px;
+}
+#service-txt button {
+  background-color: #ffd8a9;
+  color: #d07000;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+#service h1 {
+  font-family: Aharoni;
+  font-size: 50px;
+  color: #3f3351;
+  margin-top: 50px;
+}
+#service h2 {
+  font-family: Gadugi;
+  font-size: 28px;
+  margin-top: 70px;
+}
+#service p {
+  font-family: Gautami;
+  font-size: 20px;
+  color: #1a1a40;
+  margin-top: 13px;
+  margin-bottom: 6px;
+}
+#service_img {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+/* counter */
+
+#counter {
+  background-color: #fff9ca;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  background-position: center;
+  background-size: cover;
+}
+#counter_icn1 {
+  font-size: 80px;
+  color: #f37878;
+}
+#counter_icn2 {
+  font-size: 80px;
+  color: #6e85b7;
+}
+#counter_icn3 {
+  font-size: 80px;
+  color: #ad8b73;
+}
+
+/* blog */
+#blog {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+#recent_posts h1 {
+  font-family: Aharoni;
+  font-size: 50px;
+  color: #3f3351;
+  margin-top: 50px;
+}
+
+#recent_posts p {
+  font-family: Gautami;
+  font-size: 20px;
+  color: #1a1a40;
+}
+
+#blog-btn1 {
+  background-color: #ffd8a9;
+  color: #d07000;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+
+#blog-btn2 {
+  background-color: #ffd8a9;
+  color: #d07000;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+
+#blog-btn3 {
+  background-color: #ffd8a9;
+  color: #d07000;
+  border: 0px;
+  box-shadow: 5px 5px 5px #00000021;
+}
+
+#copyright {
+  background-color: #ffdeb4;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
